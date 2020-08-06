@@ -1,9 +1,15 @@
 {
   "name": "zj-pages",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "main": "lib/index.js",
   "bin": "bin/zj-pages.js",
-  "files": ["lib", "bin"],
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "keywords": [
+    "zj-pages"
+  ],
   "repository": "https://github.com/zhouj945/zj-pages.git",
   "author": "zhoujian11 <zhoujian11@xdf.cn>",
   "license": "MIT",
