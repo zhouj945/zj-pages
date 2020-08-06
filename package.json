@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "bin": "bin/zj-pages.js",
+  "files": ["lib", "bin"],
   "repository": "https://github.com/zhouj945/zj-pages.git",
   "author": "zhoujian11 <zhoujian11@xdf.cn>",
   "license": "MIT",
