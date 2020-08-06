@@ -1,7 +1,7 @@
 {
   "name": "zj-pages",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/zhouj945/zj-pages.git",
   "author": "zhoujian11 <zhoujian11@xdf.cn>",
   "license": "MIT",
